@@ -31,18 +31,7 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model files (too large for git)
-*.h5
-*.keras
-saved_models/
 
-# Images (too large for git)
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
 
 # IDE
 .vscode/
