@@ -86,7 +86,7 @@ DogBreeds-Classifier/
 - **Input size**: 224x224 pixels
 - **Classes**: 120 dog breeds
 - **Training**: Transfer learning with fine-tuning
-- **Accuracy**: ~83% on validation set
+- **Accuracy**: ~85% on validation set
 
 ## 🔧 Training
 
